@@ -4,7 +4,7 @@
 
 ## BY Jennifer Sammy
 
-## PROJECT DESCRIPTION
+## Project description
 
 My project is based on simple calculations on specific tasks.It
 
