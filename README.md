@@ -1,5 +1,7 @@
 # CODECHALLENGE
 
+## 2022
+
 ## BY JENNIFER SAMMY
 
 ## PROJECT DESCRIPTION
@@ -27,6 +29,10 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to a
 
 ## PROJECT SET UP
 
+## Bugs
+
+there are no bugs in this project.
+
 ## LICENSE
 
-https://github.com/jenna-lab/codechallenge/blob/main/LICENSE.md
+licensed under the GNU General Public License v3.0 :https://github.com/jenna-lab/codechallenge/blob/main/LICENSE.md
