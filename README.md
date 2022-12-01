@@ -6,6 +6,8 @@
 
 ## PROJECT DESCRIPTION
 
+My project is based on simple calculations on specific tasks.It
+
 ## Project instructions.
 
 #CHALLENGE1: Student Grade Generator (Toy Problem)
@@ -29,9 +31,19 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to a
 
 ## PROJECT SET UP
 
+The requirements for this project are;javascript on your code terminal.
+
 ## Bugs
 
 there are no bugs in this project.
+
+## Technologies used
+
+visual coder:JavaScript
+
+## contact details
+
+Email:jensam209@gmail.com
 
 ## LICENSE
 
