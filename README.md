@@ -1,8 +1,8 @@
 # CODECHALLENGE
 
-## 2022
+## 12-2022
 
-## BY JENNIFER SAMMY
+## BY Jennifer Sammy
 
 ## PROJECT DESCRIPTION
 
