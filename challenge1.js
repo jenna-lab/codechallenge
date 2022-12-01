@@ -1,5 +1,7 @@
 const prompt = require("prompt-sync")();
+//user is prompted to enter the student marks
 const marks = prompt("Please Enter Student Marks: ");
+//the differrent grading in ranges of marks 0-100
 function gradeGenerator() {
   if (marks > 79 && marks < 100) {
     console.log(`A`);
@@ -15,4 +17,5 @@ function gradeGenerator() {
     console.log(`unKnown`);
   }
 }
+//finally after user entered the student marks now,we call the function to get the grade
 gradeGenerator();

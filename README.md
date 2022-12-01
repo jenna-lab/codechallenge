@@ -1,4 +1,10 @@
-# codechallenge
+# CODECHALLENGE
+
+## BY JENNIFER SAMMY
+
+## PROJECT DESCRIPTION
+
+## Project instructions.
 
 #CHALLENGE1: Student Grade Generator (Toy Problem)
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows:
@@ -18,3 +24,9 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+
+## PROJECT SET UP
+
+## LICENSE
+
+https://github.com/jenna-lab/codechallenge/blob/main/LICENSE.md
